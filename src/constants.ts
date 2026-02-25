@@ -35,7 +35,7 @@ export const PROPERTIES: Property[] = [
     beds: 3,
     baths: 2,
     sqft: 0,
-    imageUrl: 'fl1.jpg',
+    imageUrl: 'src/assets/images/fl1.jpg',
     type: '✔️ First-time buyers  ✔️ Commuters  ✔️ Remote or hybrid workers',
     
   },
