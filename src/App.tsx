@@ -121,19 +121,19 @@ const Navbar = () => {
 const Hero = () => {
   const slides = [
     {
-      image: "src/assets/images/hero03.jpg",
+      image: "assets/images/hero03.jpg",
       title: <>Helping You Find the <span className="italic text-gold">Perfect Home</span> in Dallas–Fort Worth</>,
       subtitle: "Trusted guidance for buyers, sellers, and first-time homeowners. Experience the Dallas market with a local expert who puts your goals first.",
       tag: "Expert Dallas Real Estate"
     },
     {
-      image: "src/assets/images/hero02.jpg",
+      image: "assets/images/hero02.jpg",
       title: <>Luxury Living in <span className="italic text-gold">Highland Park</span> & Beyond</>,
       subtitle: "Discover exclusive estates and prestigious properties in Dallas's most sought-after neighborhoods. Your luxury lifestyle starts here.",
       tag: "Luxury Property Specialist"
     },
     {
-      image: "src/assets/images/hero01.jpg",
+      image: "assets/images/hero01.jpg",
       title: <>Modern Urban <span className="italic text-gold">Condos & Lofts</span> in Uptown</>,
       subtitle: "Experience the vibrant energy of Dallas's urban core. From high-rise views to walkable districts, find your place in the city.",
       tag: "Urban Living Expert"
@@ -322,7 +322,7 @@ const AboutSection = () => {
         <div className="relative">
           <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl">
             <img 
-              src="src/assets/images/eric.png" 
+              src="assets/images/eric.png" 
               alt="Eric Therwood" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
