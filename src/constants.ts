@@ -35,7 +35,7 @@ export const PROPERTIES: Property[] = [
     beds: 3,
     baths: 2,
     sqft: 0,
-    imageUrl: 'src/assets/images/fl1.jpg',
+    imageUrl: 'assets/images/fl1.jpg',
     type: '✔️ First-time buyers  ✔️ Commuters  ✔️ Remote or hybrid workers',
     
   },
@@ -47,7 +47,7 @@ export const PROPERTIES: Property[] = [
     beds: 4,
     baths: 3,
     sqft: 0,
-    imageUrl: 'src/assets/images/fl2.jpg',
+    imageUrl: 'assets/images/fl2.jpg',
     type: '✔️ First-time buyers ✔️ Remote or hybrid workers',
   },
   {
@@ -58,7 +58,7 @@ export const PROPERTIES: Property[] = [
     beds: 3,
     baths: 2,
     sqft: 0,
-    imageUrl: 'src/assets/images/fl3.jpg',
+    imageUrl: 'assets/images/fl3.jpg',
     type: '✔️ Single ✔️ Family',
   },
   /*{
